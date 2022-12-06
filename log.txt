@@ -1,0 +1,100 @@
+2022/12/05 22:13:01 /0:0:0:0:0:0:0:1 52425Accepting Connection
+2022/12/05 22:13:01 /0:0:0:0:0:0:0:1 52426Accepting Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52426New Request: GET / HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5
+Cookie: Idea-a5bb0827=bb367395-9581-4b73-838c-74b951e3f5b4; _ga=GA1.1.639968303.1666937798; __hstc=181257784.085be35b548cf913040dd5cf79f5e95a.1666937799208.1666937799208.1666937799208.1; hubspotutk=085be35b548cf913040dd5cf79f5e95a; __hssrc=1
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52426Requested file: index.html
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52426Sending Contents With MIME Type: text/html
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52426Terminating Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52426Terminated Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52425New Request: GET /styles/main.css HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8088/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5
+Cookie: Idea-a5bb0827=bb367395-9581-4b73-838c-74b951e3f5b4; _ga=GA1.1.639968303.1666937798; __hstc=181257784.085be35b548cf913040dd5cf79f5e95a.1666937799208.1666937799208.1666937799208.1; hubspotutk=085be35b548cf913040dd5cf79f5e95a; __hssrc=1
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52425/styles/main.css File Not Found in Directory
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52425Sending Contents With MIME Type: text/html
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52425Terminating Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52425Terminated Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427Accepting Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8088/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5
+Cookie: Idea-a5bb0827=bb367395-9581-4b73-838c-74b951e3f5b4; _ga=GA1.1.639968303.1666937798; __hstc=181257784.085be35b548cf913040dd5cf79f5e95a.1666937799208.1666937799208.1666937799208.1; hubspotutk=085be35b548cf913040dd5cf79f5e95a; __hssrc=1
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427/scripts/main.js File Not Found in Directory
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427Sending Contents With MIME Type: text/html
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427Terminating Connection
+2022/12/05 22:13:02 /0:0:0:0:0:0:0:1 52427Terminated Connection
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437Accepting Connection
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437New Request: GET /manifest.json HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: manifest
+Referer: http://localhost:8088/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437/manifest.json File Not Found in Directory
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52438Accepting Connection
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437Sending Contents With MIME Type: text/html
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437Terminating Connection
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52437Terminated Connection
+2022/12/05 22:13:17 /0:0:0:0:0:0:0:1 52438New Request: GET /images/touch/chrome-touch-icon-192x192.png HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8088/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5
+Cookie: Idea-a5bb0827=bb367395-9581-4b73-838c-74b951e3f5b4; _ga=GA1.1.639968303.1666937798; __hstc=181257784.085be35b548cf913040dd5cf79f5e95a.1666937799208.1666937799208.1666937799208.1; hubspotutk=085be35b548cf913040dd5cf79f5e95a; __hssrc=1; _gid=GA1.1.117060824.1670253198; _gat=1
+2022/12/05 22:13:18 /0:0:0:0:0:0:0:1 52438/images/touch/chrome-touch-icon-192x192.png File Not Found in Directory
+2022/12/05 22:13:18 /0:0:0:0:0:0:0:1 52438Sending Contents With MIME Type: text/html
+2022/12/05 22:13:18 /0:0:0:0:0:0:0:1 52438Terminating Connection
+2022/12/05 22:13:18 /0:0:0:0:0:0:0:1 52438Terminated Connection
